@@ -49,7 +49,7 @@
   <link rel="stylesheet" href="style.css" />
 ```
 - Also look at <https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/mettre-en-place-le-css>
-- Finish by learning basic CSS tricks: http://adamschwartz.co/magic-of-css/ bonus: `@keyframe`
+- Finish by learning basic CSS tricks: <http://adamschwartz.co/magic-of-css/> bonus: `@keyframe`
 
 ## Resources
 
