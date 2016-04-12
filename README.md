@@ -51,6 +51,12 @@
 - Also look at <https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/mettre-en-place-le-css>
 - Finish by learning basic CSS tricks: <http://adamschwartz.co/magic-of-css/> bonus: `@keyframe`
 
+## Pour aller plus loin
+
+- Use a Linter <https://atom.io/packages/linter-csslint>
+- Google Page Speed <https://developers.google.com/speed/pagespeed/>
+- W3C Validator <https://validator.w3.org/>
+
 ## Resources
 
 - <http://mdo.github.io/code-guide/>
